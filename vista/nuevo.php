@@ -7,7 +7,7 @@ require_once("layouts/header.php");
     <input type="text" placeholder="INGRESE PRECIO:" name="precio"> <br><br>
     <input type="submit" class="btn" name="btn" value="GUARDAR"> <input type="submit" class="btn" name="btn" value="ATRAS"> <br> <br>
     <input type="hidden" name="m" value="guardar">
-    <input type="hidden" name="m" value="atras">
+    <input type="hidden" name="" value="atras">
 </form>
 
 <?php

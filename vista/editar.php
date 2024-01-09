@@ -12,7 +12,7 @@ require_once("layouts/header.php");
         <input type="hidden" value="<?php echo $v['id'] ?>" name="id"> <br>
         <input type="submit" class="btn" name="btn" value="ACTUALIZAR"> <input type="submit" class="btn" name="btn" value="ATRAS"> <br> <br>
         <input type="hidden" name="m" value="actualizar">
-        <input type="hidden" name="m" value="atras">
+        <input type="hidden" name="" value="atras">
 
         <?php
         endforeach;
